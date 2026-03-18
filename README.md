@@ -14,7 +14,7 @@ Tahcia is not yet on the Chrome Web Store. Install it in two steps:
 
 **1. Download the latest release**
 
-Go to [Releases](https://github.com/tahcia/chrome/releases) and download the latest `tahcia-extension.zip`. Unzip it anywhere on your machine.
+Go to [Releases](https://github.com/tahcia/chrome/releases) and download the latest `tahcia.zip`. Unzip it anywhere on your machine.
 
 **2. Load it into Chrome**
 
