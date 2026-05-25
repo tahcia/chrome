@@ -1,8 +1,7 @@
-# Tahcia — Browser Automation for Chrome
+# Tahcia
 
-**Record clicks, forms, multi-tab flows, and screenshots. Run your workflows with AI.**
+**AI Workflow Automator.**
 
-No pixel matching. No fragile macros. No engineering setup. Works on any website in Chrome.
 
 ![Tahcia Console](https://poscow.s3.amazonaws.com/media/51ed931365d9454eb158974055db3a5b/83556a09bd514bb5b5f84465c20adee4/tahcia-screenshot.png)
 
@@ -10,7 +9,7 @@ No pixel matching. No fragile macros. No engineering setup. Works on any website
 
 ## Install
 
-Tahcia is not yet on the Chrome Web Store. Install it in two steps:
+Tahcia is not on the Chrome Web Store. Install it in two steps:
 
 **1. Download the latest release**
 
@@ -75,6 +74,7 @@ Tahcia is a Chrome extension + AI console that turns browser workflows into repl
 
 ## Links
 
+- CLI [github](https://www.github.com/tahcia/cli)
 - Website: [tahcia.com](https://www.tahcia.com)
 - Console: [tahcia.com/console](https://www.tahcia.com/console)
 - Docs: [tahcia.com/docs](https://www.tahcia.com/docs)
