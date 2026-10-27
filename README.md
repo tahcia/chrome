@@ -1,6 +1,7 @@
 # Tahcia
 
-**AI Workflow Automator.**
+**AI + Shell Workflow Automator.**
+Tahcia construct is compatible to run inside this automation shell.
 
 
 ![Tahcia Console](https://poscow.s3.amazonaws.com/media/51ed931365d9454eb158974055db3a5b/83556a09bd514bb5b5f84465c20adee4/tahcia-screenshot.png)
@@ -9,7 +10,7 @@
 
 ## Install
 
-Tahcia is not on the Chrome Web Store. Install it in two steps:
+Tahcia Chrome Plugin is not on the Chrome Web Store. Install it in two steps:
 
 **1. Download the latest release**
 
@@ -28,7 +29,7 @@ That's it. The Tahcia icon will appear in your toolbar.
 
 ## What it does
 
-Tahcia is a Chrome extension + AI console that turns browser workflows into replayable scripts.
+Tahcia Computer Operator is a Chrome extension + AI console that turns browser workflows into replayable scripts.
 
 **Record** — Perform a task once in your browser. Tahcia captures every click, input, scroll, tab switch, and screenshot as a structured, editable script.
 
